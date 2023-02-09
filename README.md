@@ -7,5 +7,5 @@
 
 
 ou por <b> texto</b>
-existem diversos modos de editar o seu README, ,<strong>Seja Criativo!</strong>
+existem diversos modos de editar o seu README,<strong>Seja Criativo!</strong>
 </p>
